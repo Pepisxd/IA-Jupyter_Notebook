@@ -1,0 +1,100 @@
+Dificultad	Tema	Problema
+[principiante]	[bucles]	Escribe un programa que imprima los números del 1 al 10.
+[principiante]	[operaciones básicas]	Crea un programa que sume dos números ingresados por el usuario.
+[principiante]	[geometría]	Escribe un programa que calcule el área de un triángulo con base y altura.
+[principiante]	[conversión de unidades]	Crea un programa que convierta grados Celsius a Fahrenheit.
+[principiante]	[condicionales]	Escribe un programa que determine si un número es par o impar.
+[principiante]	[entrada/salida]	Pide al usuario su nombre y salúdalo por su nombre.
+[principiante]	[promedios]	Calcula el promedio de tres números ingresados por el usuario.
+[principiante]	[condicionales]	Crea un programa que pida la edad y diga si es mayor de edad.
+[principiante]	[bucles]	Crea un programa que imprima la tabla de multiplicar del 5.
+[principiante]	[conversión de unidades]	Crea un programa que convierta minutos en segundos.
+[principiante]	[strings]	Escribe un programa que pida dos palabras y las una con un guion.
+[principiante]	[bucles]	Imprime los números del 1 al 100 que sean múltiplos de 3.
+[principiante]	[strings]	Pide una frase y cuenta cuántas letras tiene.
+[principiante]	[operaciones básicas]	Pide un número y muestra su cuadrado.
+[principiante]	[strings]	"Verifica si una palabra contiene la letra ""a""."
+[principiante]	[strings]	"Crea un programa que reemplace las vocales de una palabra por ""*""."
+[principiante]	[strings]	Escribe un programa que muestre el último carácter de una palabra.
+[principiante]	[strings]	Crea un programa que invierta una cadena de texto.
+[principiante]	[condicionales]	Pide dos números y muestra cuál es mayor.
+[principiante]	[bucles]	Escribe un programa que cuente de 10 a 1.
+[principiante]	[strings]	Pide una palabra y muéstrala en mayúsculas.
+[principiante]	[operaciones básicas]	Crea un programa que calcule el doble de un número.
+[principiante]	[listas]	Pide una lista de 3 elementos y muestra el segundo.
+[principiante]	[condicionales]	Escribe un programa que determine si un número es divisible por 5.
+[principiante]	[operaciones básicas]	Pide dos números y muestra la diferencia entre ellos.
+[principiante]	[bucles]	Calcula la suma de los números del 1 al 10 con un bucle.
+[principiante]	[strings]	Muestra el primer carácter de una frase ingresada.
+[principiante]	[condicionales]	Pide un número y verifica si está entre 1 y 100.
+[principiante]	[strings]	Convierte una palabra en una lista de caracteres.
+[principiante]	[listas]	Crea una lista con tres frutas y muestra la primera.
+[principiante]	[salida]	"Escribe un programa que muestre ""¡Hola mundo!""."
+[principiante]	[fechas]	Crea un programa que pida el año de nacimiento y calcule la edad.
+[principiante]	[condicionales]	Pide un número y muestra si es positivo, negativo o cero.
+[intermedio]	[strings]	Escribe una función que determine si una palabra es un palíndromo.
+[intermedio]	[listas]	Crea una función que invierta una lista sin usar reverse().
+[intermedio]	[listas]	Escribe una función que reciba una lista y devuelva el promedio de sus elementos.
+[intermedio]	[listas]	Escribe una función que elimine los duplicados de una lista.
+[intermedio]	[ordenamiento]	Crea una función que ordene una lista de números de menor a mayor.
+[intermedio]	[recursión]	Escribe una función que reciba un número y devuelva su factorial.
+[intermedio]	[calculadora]	Crea un programa que simule una calculadora básica.
+[intermedio]	[strings]	Escribe una función que cuente las vocales en una palabra.
+[intermedio]	[strings]	Crea una función que reciba un string y lo convierta en camelCase.
+[intermedio]	[strings]	Escribe un programa que cuente cuántas veces aparece una palabra en un texto.
+[intermedio]	[seguridad]	Crea una función que verifique si una contraseña es segura.
+[intermedio]	[listas]	Escribe una función que reciba una lista y devuelva la suma de los pares.
+[intermedio]	[números primos]	Escribe una función que determine si un número es primo.
+[intermedio]	[strings]	Crea una función que convierta una lista de strings en una sola cadena.
+[intermedio]	[menús]	Escribe un programa que simule un menú interactivo por consola.
+[intermedio]	[fechas]	Escribe una función que reciba una fecha y determine si es válida.
+[intermedio]	[divisores]	Crea una función que reciba un número y devuelva la lista de sus divisores.
+[intermedio]	[strings]	Escribe una función que reciba dos strings y devuelva si son anagramas.
+[intermedio]	[listas]	Crea una función que reciba una lista y devuelva el segundo mayor número.
+[intermedio]	[estructura de datos]	Escribe un programa que simule una agenda de contactos.
+[intermedio]	[strings]	Crea una función que elimine los espacios extra de un texto.
+[intermedio]	[strings]	Escribe una función que reciba una frase y devuelva la misma sin vocales.
+[intermedio]	[random]	Crea un programa que genere contraseñas aleatorias.
+[intermedio]	[conversión]	Escribe una función que convierta números romanos a enteros.
+[intermedio]	[strings]	Crea una función que reciba una cadena y devuelva cuántas palabras tiene.
+[intermedio]	[validación]	Escribe una función que reciba un email y valide su formato.
+[intermedio]	[encuestas]	Crea una función que simule una encuesta de múltiples respuestas.
+[intermedio]	[condicionales]	Escribe una función que aplique descuento a un total si supera cierta cantidad.
+[intermedio]	[strings]	Crea una función que divida un texto en frases.
+[intermedio]	[matrices]	Crea una función que reciba una matriz y devuelva su transpuesta.
+[intermedio]	[búsqueda]	Escribe una función que reciba una lista y un valor, y devuelva si está o no.
+[intermedio]	[archivos]	Crea una función que cuente cuántas palabras hay en cada línea de un archivo.
+[intermedio]	[listas]	Escribe un programa que recorra una lista con `enumerate` y muestre posición y valor.
+[avanzado]	[ordenamiento]	Escribe una función que implemente el algoritmo de ordenamiento quicksort.
+[avanzado]	[POO]	Crea una clase `CuentaBancaria` con métodos para depositar y retirar.
+[avanzado]	[recursión]	Escribe una función recursiva para calcular el n-ésimo número de Fibonacci.
+[avanzado]	[álgebra]	Crea una función que resuelva una ecuación cuadrática.
+[avanzado]	[archivos]	Escribe un programa que analice un archivo `.txt` y cuente palabras únicas.
+[avanzado]	[estructuras]	Crea una función que detecte ciclos en una lista enlazada.
+[avanzado]	[expresiones]	Escribe una función que convierta expresiones infijas a postfijas.
+[avanzado]	[POO]	Crea una clase `Rectángulo` con métodos para calcular área y perímetro.
+[avanzado]	[estructuras]	Implementa una pila (stack) con operaciones básicas.
+[avanzado]	[estructuras]	Implementa una cola (queue) usando dos pilas.
+[avanzado]	[recursión]	Escribe una función que resuelva el problema de las torres de Hanoi.
+[avanzado]	[validación]	Crea una función que verifique si una expresión tiene paréntesis balanceados.
+[avanzado]	[búsqueda]	Escribe un programa que resuelva un laberinto usando búsqueda en profundidad.
+[avanzado]	[decoradores]	Crea un decorador que mida el tiempo de ejecución de una función.
+[avanzado]	[sistemas]	Implementa un sistema de login con manejo de errores y registro.
+[avanzado]	[POO]	Crea una clase `Fracción` que soporte suma, resta y simplificación.
+[avanzado]	[ordenamiento]	Escribe una función que ordene usando merge sort.
+[avanzado]	[generadores]	Escribe un generador que devuelva los números primos infinitamente.
+[avanzado]	[geometría]	Crea una función que detecte el tipo de triángulo dado sus lados.
+[avanzado]	[búsqueda]	Implementa el algoritmo de búsqueda binaria recursivamente.
+[avanzado]	[POO]	Crea una clase `Empleado` y hereda `Gerente` con un método adicional.
+[avanzado]	[estadística]	Escribe una función que calcule la desviación estándar de una lista de datos.
+[avanzado]	[dinámica]	Crea una función que resuelva el problema del cambio de monedas.
+[avanzado]	[archivos]	Escribe un programa que lea un CSV y genere un informe estadístico.
+[avanzado]	[POO]	Crea un sistema de carrito de compras con clases y herencia.
+[avanzado]	[expresiones]	Escribe una función que reciba una expresión matemática y la evalúe con seguridad.
+[avanzado]	[listas]	Implementa un algoritmo que detecte duplicados en una lista muy grande.
+[avanzado]	[grafos]	Escribe una función que simule el algoritmo de Dijkstra para rutas más cortas.
+[avanzado]	[combinatoria]	Crea una función que genere permutaciones de una lista.
+[avanzado]	[POO]	Crea una clase `Polinomio` que permita evaluar y derivar la expresión.
+[avanzado]	[intervalos]	Escribe una función que detecte si dos intervalos de tiempo se solapan.
+[avanzado]	[decoradores]	Crea un decorador que registre llamadas a funciones en un archivo.
+[avanzado]	[validación]	Escribe un sistema de validación de datos tipo formulario con excepciones personalizadas.
