@@ -1,0 +1,8 @@
+bin/
+include/
+lib/
+lib64/
+modelo_finetune/
+share/
+tinyllama-lora/
+pyvenv.cfg

@@ -1,0 +1,818 @@
+[
+  {
+    "prompt": "Crea un ejercicio básico de programación sobre estructuras de repetición.",
+    "completion": "Problema: Escribe un programa que imprima los números del 1 al 10."
+  },
+  {
+    "prompt": "Necesito un problema sencillo relacionado con cálculos aritméticos.",
+    "completion": "Problema: Crea un programa que sume dos números ingresados por el usuario."
+  },
+  {
+    "prompt": "Dame un ejercicio introductorio sobre cálculos geométricos.",
+    "completion": "Problema: Escribe un programa que calcule el área de un triángulo con base y altura."
+  },
+  {
+    "prompt": "Proporciona un problema básico sobre transformación de medidas.",
+    "completion": "Problema: Crea un programa que convierta grados Celsius a Fahrenheit."
+  },
+  {
+    "prompt": "Quiero un ejercicio elemental sobre estructuras de decisión.",
+    "completion": "Problema: Escribe un programa que determine si un número es par o impar."
+  },
+  {
+    "prompt": "Dame un problema simple de interacción con el usuario.",
+    "completion": "Problema: Pide al usuario su nombre y salúdalo por su nombre."
+  },
+  {
+    "prompt": "Crea un ejercicio básico para calcular valores centrales.",
+    "completion": "Problema: Calcula el promedio de tres números ingresados por el usuario."
+  },
+  {
+    "prompt": "Necesito un problema sencillo sobre evaluación de condiciones.",
+    "completion": "Problema: Crea un programa que pida la edad y diga si es mayor de edad."
+  },
+  {
+    "prompt": "Dame un ejercicio introductorio sobre repetición de operaciones.",
+    "completion": "Problema: Crea un programa que imprima la tabla de multiplicar del 5."
+  },
+  {
+    "prompt": "Proporciona un problema básico de conversión de tiempo.",
+    "completion": "Problema: Crea un programa que convierta minutos en segundos."
+  },
+  {
+    "prompt": "Quiero un ejercicio elemental sobre manipulación de texto.",
+    "completion": "Problema: Escribe un programa que pida dos palabras y las una con un guion."
+  },
+  {
+    "prompt": "Crea un problema sencillo sobre ciclos y condiciones.",
+    "completion": "Problema: Imprime los números del 1 al 100 que sean múltiplos de 3."
+  },
+  {
+    "prompt": "Dame un ejercicio básico para análisis de cadenas.",
+    "completion": "Problema: Pide una frase y cuenta cuántas letras tiene."
+  },
+  {
+    "prompt": "Necesito un problema simple sobre operaciones matemáticas.",
+    "completion": "Problema: Pide un número y muestra su cuadrado."
+  },
+  {
+    "prompt": "Proporciona un ejercicio introductorio sobre búsqueda en texto.",
+    "completion": "Problema: Verifica si una palabra contiene la letra \"a\"."
+  },
+  {
+    "prompt": "Quiero un problema básico de modificación de cadenas.",
+    "completion": "Problema: Crea un programa que reemplace las vocales de una palabra por \"*\"."
+  },
+  {
+    "prompt": "Dame un ejercicio elemental sobre acceso a caracteres.",
+    "completion": "Problema: Escribe un programa que muestre el último carácter de una palabra."
+  },
+  {
+    "prompt": "Crea un problema sencillo sobre transformación de texto.",
+    "completion": "Problema: Crea un programa que invierta una cadena de texto."
+  },
+  {
+    "prompt": "Necesito un ejercicio básico de comparación numérica.",
+    "completion": "Problema: Pide dos números y muestra cuál es mayor."
+  },
+  {
+    "prompt": "Proporciona un problema simple sobre conteo regresivo.",
+    "completion": "Problema: Escribe un programa que cuente de 10 a 1."
+  },
+  {
+    "prompt": "Quiero un ejercicio introductorio sobre formato de texto.",
+    "completion": "Problema: Pide una palabra y muéstrala en mayúsculas."
+  },
+  {
+    "prompt": "Dame un problema básico de multiplicación.",
+    "completion": "Problema: Crea un programa que calcule el doble de un número."
+  },
+  {
+    "prompt": "Crea un ejercicio elemental sobre manejo de colecciones.",
+    "completion": "Problema: Pide una lista de 3 elementos y muestra el segundo."
+  },
+  {
+    "prompt": "Necesito un problema sencillo sobre divisibilidad.",
+    "completion": "Problema: Escribe un programa que determine si un número es divisible por 5."
+  },
+  {
+    "prompt": "Proporciona un ejercicio básico sobre resta.",
+    "completion": "Problema: Pide dos números y muestra la diferencia entre ellos."
+  },
+  {
+    "prompt": "Quiero un problema simple sobre acumulación con bucles.",
+    "completion": "Problema: Calcula la suma de los números del 1 al 10 con un bucle."
+  },
+  {
+    "prompt": "Dame un ejercicio introductorio sobre extracción de caracteres.",
+    "completion": "Problema: Muestra el primer carácter de una frase ingresada."
+  },
+  {
+    "prompt": "Crea un problema básico sobre validación de rangos.",
+    "completion": "Problema: Pide un número y verifica si está entre 1 y 100."
+  },
+  {
+    "prompt": "Necesito un ejercicio elemental sobre conversión de tipos.",
+    "completion": "Problema: Convierte una palabra en una lista de caracteres."
+  },
+  {
+    "prompt": "Proporciona un problema sencillo sobre creación de listas.",
+    "completion": "Problema: Crea una lista con tres frutas y muestra la primera."
+  },
+  {
+    "prompt": "Quiero un ejercicio básico de salida por pantalla.",
+    "completion": "Problema: Escribe un programa que muestre \"¡Hola mundo!\"."
+  },
+  {
+    "prompt": "Dame un problema simple sobre cálculo de edad.",
+    "completion": "Problema: Crea un programa que pida el año de nacimiento y calcule la edad."
+  },
+  {
+    "prompt": "Crea un ejercicio introductorio sobre clasificación de números.",
+    "completion": "Problema: Pide un número y muestra si es positivo, negativo o cero."
+  },
+  {
+    "prompt": "Diseña un ejercicio de nivel medio sobre simetría en palabras.",
+    "completion": "Problema: Escribe una función que determine si una palabra es un palíndromo."
+  },
+  {
+    "prompt": "Necesito un problema intermedio sobre inversión de datos.",
+    "completion": "Problema: Crea una función que invierta una lista sin usar reverse()."
+  },
+  {
+    "prompt": "Proporciona un ejercicio de dificultad media sobre estadísticas básicas.",
+    "completion": "Problema: Escribe una función que reciba una lista y devuelva el promedio de sus elementos."
+  },
+  {
+    "prompt": "Quiero un problema intermedio sobre limpieza de datos.",
+    "completion": "Problema: Escribe una función que elimine los duplicados de una lista."
+  },
+  {
+    "prompt": "Dame un ejercicio de nivel medio sobre organización de datos.",
+    "completion": "Problema: Crea una función que ordene una lista de números de menor a mayor."
+  },
+  {
+    "prompt": "Crea un problema intermedio usando técnicas recursivas.",
+    "completion": "Problema: Escribe una función que reciba un número y devuelva su factorial."
+  },
+  {
+    "prompt": "Necesito un ejercicio de dificultad media sobre herramientas de cálculo.",
+    "completion": "Problema: Crea un programa que simule una calculadora básica."
+  },
+  {
+    "prompt": "Proporciona un problema intermedio sobre análisis de texto.",
+    "completion": "Problema: Escribe una función que cuente las vocales en una palabra."
+  },
+  {
+    "prompt": "Quiero un ejercicio de nivel medio sobre formatos de nomenclatura.",
+    "completion": "Problema: Crea una función que reciba un string y lo convierta en camelCase."
+  },
+  {
+    "prompt": "Dame un problema intermedio sobre búsqueda en texto.",
+    "completion": "Problema: Escribe un programa que cuente cuántas veces aparece una palabra en un texto."
+  },
+  {
+    "prompt": "Crea un ejercicio de dificultad media sobre validación de credenciales.",
+    "completion": "Problema: Crea una función que verifique si una contraseña es segura."
+  },
+  {
+    "prompt": "Necesito un problema intermedio sobre filtrado numérico.",
+    "completion": "Problema: Escribe una función que reciba una lista y devuelva la suma de los pares."
+  },
+  {
+    "prompt": "Proporciona un ejercicio de nivel medio sobre teoría de números.",
+    "completion": "Problema: Escribe una función que determine si un número es primo."
+  },
+  {
+    "prompt": "Quiero un problema intermedio sobre concatenación de datos.",
+    "completion": "Problema: Crea una función que convierta una lista de strings en una sola cadena."
+  },
+  {
+    "prompt": "Dame un ejercicio de dificultad media sobre interfaces de usuario.",
+    "completion": "Problema: Escribe un programa que simule un menú interactivo por consola."
+  },
+  {
+    "prompt": "Crea un problema intermedio sobre verificación temporal.",
+    "completion": "Problema: Escribe una función que reciba una fecha y determine si es válida."
+  },
+  {
+    "prompt": "Necesito un ejercicio de nivel medio sobre factorización.",
+    "completion": "Problema: Crea una función que reciba un número y devuelva la lista de sus divisores."
+  },
+  {
+    "prompt": "Proporciona un problema intermedio sobre permutaciones de letras.",
+    "completion": "Problema: Escribe una función que reciba dos strings y devuelva si son anagramas."
+  },
+  {
+    "prompt": "Quiero un ejercicio de dificultad media sobre ordenación personalizada.",
+    "completion": "Problema: Crea una función que reciba una lista y devuelva el segundo mayor número."
+  },
+  {
+    "prompt": "Dame un problema intermedio sobre sistemas de información.",
+    "completion": "Problema: Escribe un programa que simule una agenda de contactos."
+  },
+  {
+    "prompt": "Crea un ejercicio de nivel medio sobre limpieza de formato.",
+    "completion": "Problema: Crea una función que elimine los espacios extra de un texto."
+  },
+  {
+    "prompt": "Necesito un problema intermedio sobre filtrado de caracteres.",
+    "completion": "Problema: Escribe una función que reciba una frase y devuelva la misma sin vocales."
+  },
+  {
+    "prompt": "Proporciona un ejercicio de dificultad media sobre generación aleatoria.",
+    "completion": "Problema: Crea un programa que genere contraseñas aleatorias."
+  },
+  {
+    "prompt": "Quiero un problema intermedio sobre sistemas numéricos antiguos.",
+    "completion": "Problema: Escribe una función que convierta números romanos a enteros."
+  },
+  {
+    "prompt": "Dame un ejercicio de nivel medio sobre análisis de contenido.",
+    "completion": "Problema: Crea una función que reciba una cadena y devuelva cuántas palabras tiene."
+  },
+  {
+    "prompt": "Crea un problema intermedio sobre verificación de formato.",
+    "completion": "Problema: Escribe una función que reciba un email y valide su formato."
+  },
+  {
+    "prompt": "Necesito un ejercicio de dificultad media sobre recolección de datos.",
+    "completion": "Problema: Crea una función que simule una encuesta de múltiples respuestas."
+  },
+  {
+    "prompt": "Proporciona un problema intermedio sobre aplicación de reglas comerciales.",
+    "completion": "Problema: Escribe una función que aplique descuento a un total si supera cierta cantidad."
+  },
+  {
+    "prompt": "Quiero un ejercicio de nivel medio sobre segmentación de texto.",
+    "completion": "Problema: Crea una función que divida un texto en frases."
+  },
+  {
+    "prompt": "Dame un problema intermedio sobre transformaciones matriciales.",
+    "completion": "Problema: Crea una función que reciba una matriz y devuelva su transpuesta."
+  },
+  {
+    "prompt": "Crea un ejercicio de dificultad media sobre localización de elementos.",
+    "completion": "Problema: Escribe una función que reciba una lista y un valor, y devuelva si está o no."
+  },
+  {
+    "prompt": "Necesito un problema intermedio sobre procesamiento de archivos.",
+    "completion": "Problema: Crea una función que cuente cuántas palabras hay en cada línea de un archivo."
+  },
+  {
+    "prompt": "Proporciona un ejercicio de nivel medio sobre iteración indexada.",
+    "completion": "Problema: Escribe un programa que recorra una lista con enumerate y muestre posición y valor."
+  },
+  {
+    "prompt": "Desarrolla un ejercicio complejo sobre algoritmos de ordenamiento eficientes.",
+    "completion": "Problema: Escribe una función que implemente el algoritmo de ordenamiento quicksort."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre modelado de sistemas financieros.",
+    "completion": "Problema: Crea una clase CuentaBancaria con métodos para depositar y retirar."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo usando recursión matemática.",
+    "completion": "Problema: Escribe una función recursiva para calcular el n-ésimo número de Fibonacci."
+  },
+  {
+    "prompt": "Quiero un problema avanzado sobre resolución de ecuaciones.",
+    "completion": "Problema: Crea una función que resuelva una ecuación cuadrática."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre análisis de documentos.",
+    "completion": "Problema: Escribe un programa que analice un archivo .txt y cuente palabras únicas."
+  },
+  {
+    "prompt": "Crea un problema avanzado sobre detección de patrones en estructuras.",
+    "completion": "Problema: Crea una función que detecte ciclos en una lista enlazada."
+  },
+  {
+    "prompt": "Necesito un ejercicio complejo sobre notación matemática.",
+    "completion": "Problema: Escribe una función que convierta expresiones infijas a postfijas."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre modelado geométrico.",
+    "completion": "Problema: Crea una clase Rectángulo con métodos para calcular área y perímetro."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre estructuras de datos fundamentales.",
+    "completion": "Problema: Implementa una pila (stack) con operaciones básicas."
+  },
+  {
+    "prompt": "Dame un problema avanzado sobre implementación de estructuras combinadas.",
+    "completion": "Problema: Implementa una cola (queue) usando dos pilas."
+  },
+  {
+    "prompt": "Crea un ejercicio complejo sobre algoritmos recursivos clásicos.",
+    "completion": "Problema: Escribe una función que resuelva el problema de las torres de Hanoi."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre verificación de sintaxis.",
+    "completion": "Problema: Crea una función que verifique si una expresión tiene paréntesis balanceados."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo sobre algoritmos de exploración.",
+    "completion": "Problema: Escribe un programa que resuelva un laberinto usando búsqueda en profundidad."
+  },
+  {
+    "prompt": "Quiero un problema avanzado sobre metaprogramación.",
+    "completion": "Problema: Crea un decorador que mida el tiempo de ejecución de una función."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre sistemas de autenticación.",
+    "completion": "Problema: Implementa un sistema de login con manejo de errores y registro."
+  },
+  {
+    "prompt": "Crea un problema avanzado sobre aritmética de precisión.",
+    "completion": "Problema: Crea una clase Fracción que soporte suma, resta y simplificación."
+  },
+  {
+    "prompt": "Necesito un ejercicio complejo sobre algoritmos de ordenamiento estables.",
+    "completion": "Problema: Escribe una función que ordene usando merge sort."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre secuencias infinitas.",
+    "completion": "Problema: Escribe un generador que devuelva los números primos infinitamente."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre clasificación geométrica.",
+    "completion": "Problema: Crea una función que detecte el tipo de triángulo dado sus lados."
+  },
+  {
+    "prompt": "Dame un problema avanzado sobre algoritmos de búsqueda optimizada.",
+    "completion": "Problema: Implementa el algoritmo de búsqueda binaria recursivamente."
+  },
+  {
+    "prompt": "Crea un ejercicio complejo sobre jerarquías de clases.",
+    "completion": "Problema: Crea una clase Empleado y hereda Gerente con un método adicional."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre análisis estadístico.",
+    "completion": "Problema: Escribe una función que calcule la desviación estándar de una lista de datos."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo sobre optimización dinámica.",
+    "completion": "Problema: Crea una función que resuelva el problema del cambio de monedas."
+  },
+  {
+    "prompt": "Quiero un problema avanzado sobre procesamiento de datos tabulares.",
+    "completion": "Problema: Escribe un programa que lea un CSV y genere un informe estadístico."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre sistemas de comercio electrónico.",
+    "completion": "Problema: Crea un sistema de carrito de compras con clases y herencia."
+  },
+  {
+    "prompt": "Crea un problema avanzado sobre evaluación segura de expresiones.",
+    "completion": "Problema: Escribe una función que reciba una expresión matemática y la evalúe con seguridad."
+  },
+  {
+    "prompt": "Necesito un ejercicio complejo sobre eficiencia en grandes volúmenes.",
+    "completion": "Problema: Implementa un algoritmo que detecte duplicados en una lista muy grande."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre algoritmos de caminos óptimos.",
+    "completion": "Problema: Escribe una función que simule el algoritmo de Dijkstra para rutas más cortas."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre generación de combinaciones.",
+    "completion": "Problema: Crea una función que genere permutaciones de una lista."
+  },
+  {
+    "prompt": "Dame un problema avanzado sobre modelado matemático simbólico.",
+    "completion": "Problema: Crea una clase Polinomio que permita evaluar y derivar la expresión."
+  },
+  {
+    "prompt": "Crea un ejercicio complejo sobre análisis de rangos temporales.",
+    "completion": "Problema: Escribe una función que detecte si dos intervalos de tiempo se solapan."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre registro de actividades.",
+    "completion": "Problema: Crea un decorador que registre llamadas a funciones en un archivo."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo sobre validación robusta de datos.",
+    "completion": "Problema: Escribe un sistema de validación de datos tipo formulario con excepciones personalizadas."
+  },
+  {
+    "prompt": "Diseña un ejercicio básico sobre lectura de datos numéricos.",
+    "completion": "Problema: Crea un programa que lea tres números y muestre cuál es el menor."
+  },
+  {
+    "prompt": "Necesito un problema sencillo sobre operaciones con porcentajes.",
+    "completion": "Problema: Escribe un programa que calcule el 15% de descuento sobre un precio."
+  },
+  {
+    "prompt": "Dame un ejercicio introductorio sobre validación de entrada.",
+    "completion": "Problema: Crea un programa que verifique si un año es bisiesto."
+  },
+  {
+    "prompt": "Proporciona un problema básico sobre cálculos de tiempo.",
+    "completion": "Problema: Escribe un programa que convierta horas a minutos."
+  },
+  {
+    "prompt": "Quiero un ejercicio elemental sobre generación de patrones.",
+    "completion": "Problema: Crea un programa que imprima un triángulo de asteriscos de 5 filas."
+  },
+  {
+    "prompt": "Crea un problema simple sobre operaciones con decimales.",
+    "completion": "Problema: Escribe un programa que redondee un número decimal a 2 decimales."
+  },
+  {
+    "prompt": "Necesito un ejercicio básico sobre comparación de cadenas.",
+    "completion": "Problema: Crea un programa que compare si dos palabras son iguales (ignorando mayúsculas)."
+  },
+  {
+    "prompt": "Dame un problema sencillo sobre conteo de elementos.",
+    "completion": "Problema: Escribe un programa que cuente cuántos números pares hay en una lista."
+  },
+  {
+    "prompt": "Proporciona un ejercicio introductorio sobre concatenación.",
+    "completion": "Problema: Crea un programa que una el nombre y apellido con un espacio."
+  },
+  {
+    "prompt": "Quiero un problema básico sobre extracción de subcadenas.",
+    "completion": "Problema: Escribe un programa que extraiga los primeros 3 caracteres de una palabra."
+  },
+  {
+    "prompt": "Crea un ejercicio elemental sobre multiplicación de cadenas.",
+    "completion": "Problema: Escribe un programa que repita una palabra 5 veces."
+  },
+  {
+    "prompt": "Necesito un problema simple sobre cálculo de área circular.",
+    "completion": "Problema: Crea un programa que calcule el área de un círculo dado su radio."
+  },
+  {
+    "prompt": "Dame un ejercicio básico sobre suma acumulativa.",
+    "completion": "Problema: Escribe un programa que sume todos los números de una lista."
+  },
+  {
+    "prompt": "Proporciona un problema sencillo sobre conversión de temperaturas.",
+    "completion": "Problema: Crea un programa que convierta Fahrenheit a Celsius."
+  },
+  {
+    "prompt": "Quiero un ejercicio introductorio sobre manejo de listas vacías.",
+    "completion": "Problema: Escribe un programa que verifique si una lista está vacía."
+  },
+  {
+    "prompt": "Crea un problema básico sobre búsqueda lineal.",
+    "completion": "Problema: Escribe un programa que busque un número en una lista y diga si existe."
+  },
+  {
+    "prompt": "Necesito un ejercicio elemental sobre cálculo de perímetros.",
+    "completion": "Problema: Crea un programa que calcule el perímetro de un rectángulo."
+  },
+  {
+    "prompt": "Dame un problema simple sobre generación de números.",
+    "completion": "Problema: Escribe un programa que genere 10 números aleatorios entre 1 y 100."
+  },
+  {
+    "prompt": "Proporciona un ejercicio básico sobre ordenación de tres valores.",
+    "completion": "Problema: Crea un programa que ordene tres números de mayor a menor."
+  },
+  {
+    "prompt": "Quiero un problema sencillo sobre conteo de caracteres especiales.",
+    "completion": "Problema: Escribe un programa que cuente cuántos espacios hay en una frase."
+  },
+  {
+    "prompt": "Crea un ejercicio introductorio sobre verificación de divisibilidad múltiple.",
+    "completion": "Problema: Escribe un programa que verifique si un número es divisible por 2 y por 3."
+  },
+  {
+    "prompt": "Necesito un problema básico sobre extracción de dígitos.",
+    "completion": "Problema: Crea un programa que extraiga el último dígito de un número."
+  },
+  {
+    "prompt": "Dame un ejercicio elemental sobre cálculo de potencias.",
+    "completion": "Problema: Escribe un programa que calcule un número elevado a una potencia dada."
+  },
+  {
+    "prompt": "Proporciona un problema simple sobre formateo de texto.",
+    "completion": "Problema: Crea un programa que capitalice la primera letra de cada palabra."
+  },
+  {
+    "prompt": "Quiero un ejercicio básico sobre intercambio de valores.",
+    "completion": "Problema: Escribe un programa que intercambie los valores de dos variables."
+  },
+  {
+    "prompt": "Crea un problema de nivel medio sobre análisis de frecuencias.",
+    "completion": "Problema: Escribe una función que cuente la frecuencia de cada carácter en una cadena."
+  },
+  {
+    "prompt": "Necesito un ejercicio intermedio sobre manipulación de fechas.",
+    "completion": "Problema: Crea una función que calcule la diferencia en días entre dos fechas."
+  },
+  {
+    "prompt": "Dame un problema de dificultad media sobre filtrado avanzado.",
+    "completion": "Problema: Escribe una función que filtre palabras de una lista que tengan más de 5 letras."
+  },
+  {
+    "prompt": "Proporciona un ejercicio intermedio sobre generación de secuencias.",
+    "completion": "Problema: Crea una función que genere los primeros N números de la secuencia de Fibonacci."
+  },
+  {
+    "prompt": "Quiero un problema de nivel medio sobre análisis de texto avanzado.",
+    "completion": "Problema: Escribe una función que identifique la palabra más larga en un texto."
+  },
+  {
+    "prompt": "Crea un ejercicio intermedio sobre ordenamiento por criterios.",
+    "completion": "Problema: Escribe una función que ordene una lista de nombres por longitud."
+  },
+  {
+    "prompt": "Necesito un problema de dificultad media sobre validación de datos.",
+    "completion": "Problema: Crea una función que valide si un número de teléfono tiene formato correcto."
+  },
+  {
+    "prompt": "Dame un ejercicio intermedio sobre manipulación de matrices.",
+    "completion": "Problema: Escribe una función que sume dos matrices del mismo tamaño."
+  },
+  {
+    "prompt": "Proporciona un problema de nivel medio sobre encriptación básica.",
+    "completion": "Problema: Crea una función que implemente el cifrado César con desplazamiento N."
+  },
+  {
+    "prompt": "Quiero un ejercicio intermedio sobre algoritmos de búsqueda.",
+    "completion": "Problema: Escribe una función que encuentre el elemento más frecuente en una lista."
+  },
+  {
+    "prompt": "Crea un problema de dificultad media sobre conversión de bases.",
+    "completion": "Problema: Escribe una función que convierta un número decimal a binario."
+  },
+  {
+    "prompt": "Necesito un ejercicio intermedio sobre análisis estadístico básico.",
+    "completion": "Problema: Crea una función que calcule la mediana de una lista de números."
+  },
+  {
+    "prompt": "Dame un problema de nivel medio sobre generación de combinaciones.",
+    "completion": "Problema: Escribe una función que genere todas las combinaciones de 2 elementos de una lista."
+  },
+  {
+    "prompt": "Proporciona un ejercicio intermedio sobre simulación de juegos.",
+    "completion": "Problema: Crea una función que simule el lanzamiento de dos dados y devuelva la suma."
+  },
+  {
+    "prompt": "Quiero un problema de dificultad media sobre procesamiento de listas anidadas.",
+    "completion": "Problema: Escribe una función que aplane una lista de listas en una sola lista."
+  },
+  {
+    "prompt": "Crea un ejercicio intermedio sobre validación de estructuras.",
+    "completion": "Problema: Escribe una función que verifique si una lista está ordenada ascendentemente."
+  },
+  {
+    "prompt": "Necesito un problema de nivel medio sobre manipulación de diccionarios.",
+    "completion": "Problema: Crea una función que invierta las claves y valores de un diccionario."
+  },
+  {
+    "prompt": "Dame un ejercicio intermedio sobre análisis de patrones temporales.",
+    "completion": "Problema: Escribe una función que determine si una fecha cae en fin de semana."
+  },
+  {
+    "prompt": "Proporciona un problema de dificultad media sobre algoritmos de aproximación.",
+    "completion": "Problema: Crea una función que aproxime la raíz cuadrada usando el método de Newton."
+  },
+  {
+    "prompt": "Quiero un ejercicio intermedio sobre procesamiento de cadenas complejas.",
+    "completion": "Problema: Escribe una función que extraiga todos los números de una cadena de texto."
+  },
+  {
+    "prompt": "Crea un problema de nivel medio sobre simulación de estructuras de datos.",
+    "completion": "Problema: Escribe una función que simule el comportamiento de un conjunto (set) usando listas."
+  },
+  {
+    "prompt": "Necesito un ejercicio intermedio sobre cálculos financieros.",
+    "completion": "Problema: Crea una función que calcule el interés compuesto dados capital, tasa y tiempo."
+  },
+  {
+    "prompt": "Dame un problema de dificultad media sobre análisis de rendimiento.",
+    "completion": "Problema: Escribe una función que compare el tiempo de ejecución de dos algoritmos de ordenamiento."
+  },
+  {
+    "prompt": "Proporciona un ejercicio intermedio sobre transformación de datos.",
+    "completion": "Problema: Crea una función que convierta una lista de tuplas en un diccionario."
+  },
+  {
+    "prompt": "Quiero un problema de nivel medio sobre validación de formatos.",
+    "completion": "Problema: Escribe una función que valide si una cadena es un número válido (entero o decimal)."
+  },
+  {
+    "prompt": "Desarrolla un ejercicio complejo sobre algoritmos de compresión.",
+    "completion": "Problema: Implementa un algoritmo de compresión Run-Length Encoding."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre estructuras de datos auto-balanceadas.",
+    "completion": "Problema: Crea una clase Heap (montículo) con operaciones de inserción y extracción."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre análisis de grafos.",
+    "completion": "Problema: Escribe una función que determine si un grafo es conexo usando DFS."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre algoritmos de optimización.",
+    "completion": "Problema: Implementa el algoritmo de la mochila usando programación dinámica."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre sistemas de coordenadas.",
+    "completion": "Problema: Crea una clase Punto3D con operaciones vectoriales (suma, producto escalar)."
+  },
+  {
+    "prompt": "Crea un problema avanzado sobre análisis sintáctico.",
+    "completion": "Problema: Escribe un parser que evalúe expresiones aritméticas con precedencia de operadores."
+  },
+  {
+    "prompt": "Necesito un ejercicio complejo sobre algoritmos de texto.",
+    "completion": "Problema: Implementa el algoritmo de búsqueda de patrones Boyer-Moore."
+  },
+  {
+    "prompt": "Dame un problema avanzado sobre simulación de sistemas.",
+    "completion": "Problema: Crea un simulador de cola de atención con múltiples servidores."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo sobre criptografía.",
+    "completion": "Problema: Implementa el algoritmo de cifrado RSA básico con generación de claves."
+  },
+  {
+    "prompt": "Quiero un problema avanzado sobre análisis de imágenes básico.",
+    "completion": "Problema: Crea una función que detecte bordes en una matriz que representa una imagen."
+  },
+  {
+    "prompt": "Crea un ejercicio complejo sobre bases de datos en memoria.",
+    "completion": "Problema: Implementa un sistema de base de datos simple con operaciones CRUD."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre algoritmos genéticos.",
+    "completion": "Problema: Escribe un algoritmo genético simple para resolver el problema del viajante."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre procesamiento de señales.",
+    "completion": "Problema: Implementa la Transformada Rápida de Fourier (FFT) básica."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre sistemas distribuidos.",
+    "completion": "Problema: Crea un sistema de consenso distribuido usando el algoritmo Raft simplificado."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre compiladores.",
+    "completion": "Problema: Implementa un analizador léxico para un lenguaje de programación simple."
+  },
+  {
+    "prompt": "Crea un problema avanzado sobre inteligencia artificial básica.",
+    "completion": "Problema: Escribe un algoritmo minimax para jugar al tres en raya."
+  },
+  {
+    "prompt": "Necesito un ejercicio complejo sobre teoría de autómatas.",
+    "completion": "Problema: Implementa un autómata finito determinista que reconozca patrones regex simples."
+  },
+  {
+    "prompt": "Dame un problema avanzado sobre algoritmos de aproximación.",
+    "completion": "Problema: Escribe un algoritmo aproximado para el problema del set cover."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo sobre sistemas de archivos.",
+    "completion": "Problema: Implementa un sistema de archivos virtual con directorios y operaciones básicas."
+  },
+  {
+    "prompt": "Quiero un problema avanzado sobre redes neuronales básicas.",
+    "completion": "Problema: Crea un perceptrón simple que aprenda la función AND."
+  },
+  {
+    "prompt": "Crea un ejercicio complejo sobre algoritmos de flujo de redes.",
+    "completion": "Problema: Implementa el algoritmo de Ford-Fulkerson para flujo máximo."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre análisis de complejidad.",
+    "completion": "Problema: Escribe un programa que mida empíricamente la complejidad de diferentes algoritmos."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre sistemas de cache.",
+    "completion": "Problema: Implementa un sistema de cache LRU (Least Recently Used) con capacidad limitada."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre algoritmos probabilísticos.",
+    "completion": "Problema: Implementa un filtro de Bloom para detección rápida de membresía."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre análisis de dependencias.",
+    "completion": "Problema: Crea un detector de dependencias circulares en un grafo dirigido."
+  },
+  {
+    "prompt": "Crea un problema avanzado sobre sistemas de eventos.",
+    "completion": "Problema: Implementa un sistema de eventos con suscriptores y publicadores asíncronos."
+  },
+  {
+    "prompt": "Necesito un ejercicio complejo sobre optimización combinatoria.",
+    "completion": "Problema: Escribe un solver para el problema de coloreo de grafos usando backtracking,."
+  },
+  {
+    "prompt": "Dame un problema avanzado sobre análisis de patrones.",
+    "completion": "Problema: Implementa un algoritmo de clustering K-means básico."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo sobre sistemas de planificación.",
+    "completion": "Problema: Crea un planificador de tareas con dependencias usando topological sort."
+  },
+  {
+    "prompt": "Quiero un problema avanzado sobre álgebra lineal computacional.",
+    "completion": "Problema: Implementa la multiplicación de matrices usando el algoritmo de Strassen."
+  },
+  {
+    "prompt": "Crea un ejercicio complejo sobre análisis de código.",
+    "completion": "Problema: Escribe un analizador que detecte funciones no utilizadas en un programa."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre sistemas de recomendación.",
+    "completion": "Problema: Implementa un sistema de recomendación básico usando filtrado colaborativo."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre algoritmos de hashing.",
+    "completion": "Problema: Crea una tabla hash con resolución de colisiones por encadenamiento."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre análisis de series temporales.",
+    "completion": "Problema: Implementa un detector de anomalías en series temporales usando ventanas deslizantes."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre teoría de juegos.",
+    "completion": "Problema: Escribe un solver para encontrar equilibrios de Nash en juegos 2x2."
+  },
+  {
+    "prompt": "Crea un problema avanzado sobre algoritmos de streaming.",
+    "completion": "Problema: Implementa el algoritmo Count-Min Sketch para contar elementos en streams."
+  },
+  {
+    "prompt": "Necesito un ejercicio complejo sobre sistemas de control de versiones.",
+    "completion": "Problema: Crea un sistema de control de versiones básico con commit, branch y merge."
+  },
+  {
+    "prompt": "Dame un problema avanzado sobre algoritmos de geometría computacional.",
+    "completion": "Problema: Implementa el algoritmo de Graham para encontrar el casco convexo."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo sobre análisis de redes sociales.",
+    "completion": "Problema: Escribe un algoritmo para detectar comunidades en una red social usando modularidad."
+  },
+  {
+    "prompt": "Quiero un problema avanzado sobre sistemas de indexación.",
+    "completion": "Problema: Implementa un índice invertido para búsqueda de texto completo."
+  },
+  {
+    "prompt": "Crea un ejercicio complejo sobre algoritmos de consenso.",
+    "completion": "Problema: Implementa el algoritmo de consenso bizantino para sistemas distribuidos."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre optimización no lineal.",
+    "completion": "Problema: Escribe un optimizador usando el algoritmo de descenso de gradiente."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre análisis de rendimiento de sistemas.",
+    "completion": "Problema: Crea un profiler que analice el uso de memoria y CPU de un programa."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre algoritmos de sincronización.",
+    "completion": "Problema: Implementa un sistema de lectores-escritores usando semáforos."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre análisis de logs.",
+    "completion": "Problema: Crea un analizador de logs que detecte patrones anómalos de acceso."
+  },
+  {
+    "prompt": "Crea un problema avanzado sobre algoritmos de matching.",
+    "completion": "Problema: Implementa el algoritmo húngaro para el problema de asignación."
+  },
+  {
+    "prompt": "Necesito un ejercicio complejo sobre sistemas de cola con prioridad.",
+    "completion": "Problema: Crea un scheduler de tareas con múltiples niveles de prioridad."
+  },
+  {
+    "prompt": "Dame un problema avanzado sobre análisis de vulnerabilidades.",
+    "completion": "Problema: Escribe un detector de buffer overflow estático para código C simple."
+  },
+  {
+    "prompt": "Proporciona un ejercicio complejo sobre algoritmos de compresión avanzada.",
+    "completion": "Problema: Implementa el algoritmo de compresión LZ77 básico."
+  },
+  {
+    "prompt": "Quiero un problema avanzado sobre sistemas de cache distribuido.",
+    "completion": "Problema: Crea un sistema de cache distribuido con consistencia eventual."
+  },
+  {
+    "prompt": "Crea un ejercicio complejo sobre análisis de dependencias de paquetes.",
+    "completion": "Problema: Implementa un resolver de dependencias que detecte conflictos de versiones."
+  },
+  {
+    "prompt": "Necesito un problema avanzado sobre algoritmos de load balancing.",
+    "completion": "Problema: Escribe un load balancer que distribuya requests usando weighted round-robin."
+  },
+  {
+    "prompt": "Dame un ejercicio complejo sobre sistemas de mensajería.",
+    "completion": "Problema: Implementa un sistema de mensajería pub-sub con garantías de entrega."
+  },
+  {
+    "prompt": "Proporciona un problema avanzado sobre algoritmos de spell checking.",
+    "completion": "Problema: Crea un corrector ortográfico usando distancia de edición y tries."
+  },
+  {
+    "prompt": "Quiero un ejercicio complejo sobre análisis de malware básico.",
+    "completion": "Problema: Escribe un detector de patrones maliciosos en bytecode ejecutable."
+  }
+]
